@@ -1,4 +1,5 @@
-* {font-family: cursive;
+* {
+    font-family: cursive;
     font-size: 20px;
     background-color:aqua;
 }
@@ -6,16 +7,10 @@
 header {
     text-align: center;
     border: black;
-    background-color: blanchedalmond;
+    background-color: rgb(235, 194, 133);
     position: fixed;
     width: 250px;
     padding-bottom: 20px;
-}
-
-body {
-    font-family: cursive;
-    font-size: 20px;
-    background-color:aqua;
 }
 
 .first { 
