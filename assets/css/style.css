@@ -4,6 +4,7 @@ header {
     background-color: blanchedalmond;
     position: fixed;
     width: 250px;
+    padding-bottom: 20px;
 }
 
 body {
